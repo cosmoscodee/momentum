@@ -1,7 +1,8 @@
-const clockContainer = document.querySelector(".js-clock")
+const clockContainer = document.querySelector(".js-clock")  // class가 js-clock인 요소를 가져온다.
     , clockTitle = clockContainer.querySelector("h1");
 
 function getTime() {
+
     const date = new Date();
     const minutes = date.getMinutes();
     const hours = date.getHours();
@@ -12,7 +13,7 @@ function getTime() {
 
 function init() {
     getTime();
-    setInterval(getTime, 1000);
+    setInterval(getTime, 1000); // 주기적으로 시간을 설정해주는 함수
 }
 
 init();
