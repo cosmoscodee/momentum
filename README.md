@@ -24,14 +24,14 @@ Cookie를 이후 HTML5에 추가된 저장소이며, Key: Value 스토리지의 
 
 Session Storage도 있는데, 자세한 내용은 검색하셔서 찾아보시길 바랍니다.
 
+
 ```
 localStorage.setItem(USER_LS, text);
 
 const currentUser = localStorage.getItem(USER_LS);
 ```
-이런식으로 사용할 수 있으며,
 
-remove()와 clear()를 통하여 정보를 지울 수 있습니다.
+이런식으로 사용할 수 있으며, remove()와 clear()를 통하여 정보를 지울 수 있습니다.
 
 
 **- setInterval() 함수를 사용하여 실시간 Time 보여주기**
