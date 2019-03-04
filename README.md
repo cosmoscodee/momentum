@@ -15,6 +15,19 @@
 ---
 
 #### 기능
-- LocalStorage를 사용하여 데이터를 get, set
+- LocalStorage를 사용하여 데이터를 get, set 하기
+
+
+
+```
+let storage = localStorage;
+ 
+storage.setItem('item','value');
+ 
+storage.getItem('item'); // value
+ 
+storage.item; // value
+```
+
 - setInterval() 함수를 사용하여 실시간 Time 보여주기
 - [OpenWeatherMap API](https://openweathermap.org/)를 사용한 날씨(온도) 가져오기
