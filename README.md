@@ -31,7 +31,9 @@ const currentUser = localStorage.getItem(USER_LS);
 ```
 
 이런식으로 사용할 수 있으며, remove()와 clear()를 통하여 정보를 지울 수 있습니다.
-<br/><br/>
+
+<br/>
+<br/>
 
 ### setInterval() 함수를 사용하여 실시간 Time 보여주기
 
@@ -52,7 +54,8 @@ function init() {
 
 본 clock.js에서는 Time값을 받아와서 1초마다 시간을 계속 뿌려주는 기능입니다.
 
-<br/><br/>
+<br/>
+<br/>
 
 ### geolocation() API와 [OpenWeatherMap API](https://openweathermap.org/)를 활용한 날씨(온도) 정보 가져오기
 
