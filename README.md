@@ -32,9 +32,7 @@ const currentUser = localStorage.getItem(USER_LS);
 ```
 
 이런식으로 사용할 수 있으며, remove()와 clear()를 통하여 정보를 지울 수 있습니다.
-` `
-` `
-` `
+<br/><br/><br/>
 
 **- setInterval() 함수를 사용하여 실시간 Time 보여주기**
 
