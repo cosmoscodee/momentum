@@ -32,15 +32,13 @@ const currentUser = localStorage.getItem(USER_LS);
 ```
 
 이런식으로 사용할 수 있으며, remove()와 clear()를 통하여 정보를 지울 수 있습니다.
-\
-\\
-\\\
+&nbsp;
 
 **- setInterval() 함수를 사용하여 실시간 Time 보여주기**
-\
+&nbsp;
 
 **- geolocation() 함수를 사용하여 정보위치 활용하기**
-\
+&nbsp;
 
 **- [OpenWeatherMap API](https://openweathermap.org/)를 사용한 날씨(온도) 가져오기**
-\
+&nbsp;
