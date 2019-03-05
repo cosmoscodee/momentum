@@ -62,7 +62,7 @@ Javascript에서 제공해주는 navigator.geolocation.getCurrentPosition() 함�
  
 <br/>
 
-![geolocation](./web/images/geolocation.png){: width="300" height="300"){: .center}
+![geolocation](./web/images/geolocation.png =250x250)
 
 <br/>
 
