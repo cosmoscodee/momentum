@@ -27,7 +27,7 @@ Vanilla JS는 이미 브라우저에 탑제되어 있으며, Plain JS라고도 �
 
 <br/>
 
-> My advice is to understand that you can do everything without the typical frameworks and libraries. We should think more about the efficiency of a web. When you learn vanilla javascript you will have more power, you will understand any framework without problem and above all, you will be a complete developer.
+> My advice is to understand that you can do everything without the typical frameworks and libraries. We should think more about the efficiency of a web. When you learn vanilla javascript you will have more power, you will understand any framework without problem and above all, you will be a complete developer.  
 > 별 다른 프레임워크나 라이브러리가 없는 정석 자바스크립트를 배워두길 권한다. 이것은 너가 개발자로써 이해도를 높일 수 있으며, 문제를 해결하는데 도움이 될 것이다. 라고 하는 거 같다.
 
 <br/>
@@ -47,21 +47,16 @@ Vanilla JS는 이미 브라우저에 탑제되어 있으며, Plain JS라고도 �
 
 그리고 마지막에 자바스크립트에 대한 교재를 추천해주는데 들어가보니 인터넷으로 볼 수 있는 것 같다.  
 관심이 있으면 읽어보는 것도 도움이 될 것 같다.  
-
-<br/>
-
 http://eloquentjavascript.net/  
 https://github.com/getify/You-Dont-Know-JS
 
 <br/>
 <br/>
 
-
 - https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34
 
 <br/>
-
-또 다른 곳에서는 비슷한 내용이지만
+마지막으로, 또 다른 정의로 위 링크에 글을 보면  
 
 <br/>
 
@@ -69,4 +64,5 @@ https://github.com/getify/You-Dont-Know-JS
 
 <br/>
 
-JavaScript Fundamental을 강조하고 있다. 자바스크립트에 대한 근본적인 역량을 갖추라며 "KEEP CALM AND LEARN JAVASCRIPT" 라는 문구가 적힌 슬로건이 눈이 뛴다.
+JavaScript Fundamental라며 자바스크립트 근본을 강조하고 있다.  
+자바스크립트에 대한 근본적인 역량을 갖추라며 **"KEEP CALM AND LEARN JAVASCRIPT"** 라는 문구가 적힌 슬로건이 눈이 뛴다.
