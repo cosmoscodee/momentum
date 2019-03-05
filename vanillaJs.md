@@ -1,14 +1,17 @@
 # Vanilla Javascript란?
 <br/>
-http://vanilla-js.com
+
+- http://vanilla-js.com
+
 <br/>
 
  위 사이트에서 Vanilla JS 를 다운받을 수 있지만, 다운을 받아도 0byte라는 것을 확인할 수 있다.  
- Vanilla JS는 이미 브라우저에 탑제되어 있으며, Plain JS라고도 불린다.  
- 특별한 라이브러리나 프레임워크를 탑제하지 않는 순수(pure) 자바스크립트가 바로 Vanilla JS이다.
+Vanilla JS는 이미 브라우저에 탑제되어 있으며, Plain JS라고도 불린다.  
+특별한 라이브러리나 프레임워크를 탑제하지 않는 순수(pure) 자바스크립트가 바로 Vanilla JS이다.
+
 <br/>
 
-https://dev.to/marluanguerrero/why-is-important-to-learn-vanilla-javascript-first-before-opting-for-a-framework-or-library--5ffg
+- https://dev.to/marluanguerrero/why-is-important-to-learn-vanilla-javascript-first-before-opting-for-a-framework-or-library--5ffg
 
 <br/>
 
@@ -25,9 +28,6 @@ https://dev.to/marluanguerrero/why-is-important-to-learn-vanilla-javascript-firs
 <br/>
 
 > My advice is to understand that you can do everything without the typical frameworks and libraries. We should think more about the efficiency of a web. When you learn vanilla javascript you will have more power, you will understand any framework without problem and above all, you will be a complete developer.
-
-<br/>
-
 > 별 다른 프레임워크나 라이브러리가 없는 정석 자바스크립트를 배워두길 권한다. 이것은 너가 개발자로써 이해도를 높일 수 있으며, 문제를 해결하는데 도움이 될 것이다. 라고 하는 거 같다.
 
 <br/>
@@ -50,14 +50,14 @@ https://dev.to/marluanguerrero/why-is-important-to-learn-vanilla-javascript-firs
 
 <br/>
 
-http://eloquentjavascript.net/
+http://eloquentjavascript.net/  
 https://github.com/getify/You-Dont-Know-JS
 
 <br/>
 <br/>
-<br/>
 
-Link> https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34
+
+- https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34
 
 <br/>
 
