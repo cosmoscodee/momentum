@@ -60,8 +60,11 @@ navigator.geolocation.getCurrentPosition(handleGeoSuccess, handleGeoError);
  
 Javascript에서 제공해주는 navigator.geolocation.getCurrentPosition() 함수를 사용하면 현재 좌표(위도, 경도)를 불러올 수 있습니다.
  
+<br/>
 
-(사진)
+![geolocation](./web/images/geolocation.png)
+
+<br/>
 
 위치 제공을 허용할꺼냐라는 메시지를 받을 수 있고, 승인을 하면 좌표값을 받습니다.
 
