@@ -52,8 +52,24 @@ function init() {
 
 <br/><br/>
 
-### geolocation() 함수를 사용하여 정보위치 활용하기
+### geolocation() API와 [OpenWeatherMap API](https://openweathermap.org/)를 활용한 날씨(온도) 정보 가져오기
+
+```
+navigator.geolocation.getCurrentPosition(handleGeoSuccess, handleGeoError);
+```
+ 
+Javascript에서 제공해주는 navigator.geolocation.getCurrentPosition() 함수를 사용하면 현재 좌표(위도, 경도)를 불러올 수 있습니다.
+ 
+
+(사진)
+
+위치 제공을 허용할꺼냐라는 메시지를 받을 수 있고, 승인을 하면 좌표값을 받습니다.
+
+그리고 OWM에서 제공하는 API를 가져다가 쓸건데요. 주소로 들어가셔서 간단한 회원가입과 함께 고유 API KEY를 받고
+
+DOC에서 제공하는 코드를 복사해서 붙여넣으면 OWM에서 제공하는 원하는 데이터를 .json 형태로 받을 수 있습니다.
+
+weather.js 파일을 보시면 온도를 불러오는 코드인 것을 알 수 있습니다.
+ 
 
 
-
-### [OpenWeatherMap API](https://openweathermap.org/)를 사용한 날씨(온도) 가져오기
