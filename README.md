@@ -82,7 +82,7 @@ Javascript에서 제공해주는 navigator.geolocation.getCurrentPosition() 함�
 
 DOC에서 제공하는 코드를 복사해서 붙여넣으면 OWM에서 제공하는 원하는 데이터를 .json 형태로 받을 수 있습니다.
 
-weather.js 파일을 보시면 온도를 불러오는 코드인 것을 알 수 있습니다.
+[weather.js](https://github.com/gusdn6526/momentum/blob/master/web/js/weather.js) 파일을 보시면 온도를 불러오는 코드인 것을 알 수 있습니다.
 
 <br/>
 
