@@ -19,7 +19,7 @@ Vanilla Javascript에 대한 설명은 여기([Vanilla script](https://github.co
 
 <br/>
 
-###`주요기능`
+### `주요기능`
 
 
 #### - LocalStorage를 사용하여 데이터를 get, set 하기
