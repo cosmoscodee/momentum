@@ -85,21 +85,3 @@ DOC에서 제공하는 코드를 복사해서 붙여넣으면 OWM에서 제공�
 [weather.js](https://github.com/gusdn6526/momentum/blob/master/web/js/weather.js) 파일을 보시면 온도를 불러오는 코드인 것을 알 수 있습니다.
 
 <br/>
-
----
-
-<br/>
-
-### `추가기능`
-
-<br/>
-
-#### - Bootstrap 적용하기 ####(작업중...)
-
-<br/>
-<br/>
-
-#### - Youtube API를 활용한 동영상 가져오기 ####(작업중...)
-
-<br/>
-<br/>
